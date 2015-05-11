@@ -1,7 +1,5 @@
-========================
-Barcode Reader for Glass
-========================
+##Barcode Reader for Glass
 
-Initially built during the Glass Explorer camp in 2013. 
+Initially built during the Glass Explorer camp in 2013 with the following API:
 
-Jersey, Crossing scanner API
+* [ZCrossing API](https://github.com/zxing/zxing)
